@@ -1,0 +1,362 @@
+[
+  {
+    "hash": 83923978,
+    "binaryHash": "0a 94 00 05",
+    "type": 10,
+    "subType": 16,
+    "level": 9,
+    "toTopLevel": "0a f4 00 05",
+    "typeName": "TURRET"
+  },
+  {
+    "hash": 83923978,
+    "binaryHash": "0a 94 00 05",
+    "type": 10,
+    "subType": 16,
+    "level": 9,
+    "toTopLevel": "0a f4 00 05",
+    "typeName": "TURRET"
+  },
+  {
+    "hash": 33460995,
+    "binaryHash": "03 93 fe 01",
+    "type": 3,
+    "subType": 12,
+    "level": 9,
+    "toTopLevel": "03 f3 fe 01",
+    "typeName": "REACTOR"
+  },
+  {
+    "hash": 58757511,
+    "binaryHash": "87 91 80 03",
+    "type": 7,
+    "subType": 6,
+    "level": 9,
+    "toTopLevel": "87 f1 80 03",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 100700615,
+    "binaryHash": "c7 91 00 06",
+    "type": 7,
+    "subType": 7,
+    "level": 9,
+    "toTopLevel": "c7 f1 00 06",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 58757383,
+    "binaryHash": "07 91 80 03",
+    "type": 7,
+    "subType": 4,
+    "level": 9,
+    "toTopLevel": "07 f1 80 03",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 100700295,
+    "binaryHash": "87 90 00 06",
+    "type": 7,
+    "subType": 2,
+    "level": 9,
+    "toTopLevel": "87 f0 00 06",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 58757127,
+    "binaryHash": "07 90 80 03",
+    "type": 7,
+    "subType": 0,
+    "level": 9,
+    "toTopLevel": "07 f0 80 03",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 16814914,
+    "binaryHash": "42 93 00 01",
+    "type": 2,
+    "subType": 13,
+    "level": 9,
+    "toTopLevel": "42 f3 00 01",
+    "typeName": "WARP_DRIVE"
+  },
+  {
+    "hash": 50237445,
+    "binaryHash": "05 90 fe 02",
+    "type": 5,
+    "subType": 0,
+    "level": 9,
+    "toTopLevel": "05 f0 fe 02",
+    "typeName": "SENSOR"
+  },
+  {
+    "hash": 142623121,
+    "binaryHash": "91 41 80 08",
+    "type": 17,
+    "subType": 6,
+    "level": 4,
+    "toTopLevel": "91 f1 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142475280,
+    "binaryHash": "10 00 7e 08",
+    "type": 16,
+    "subType": 0,
+    "level": 0,
+    "toTopLevel": "10 f0 7e 08",
+    "typeName": "HULL_PLATING"
+  },
+  {
+    "hash": 75366408,
+    "binaryHash": "08 00 7e 04",
+    "type": 8,
+    "subType": 0,
+    "level": 0,
+    "toTopLevel": "08 f0 7e 04",
+    "typeName": "OXYGEN"
+  },
+  {
+    "hash": 169738644,
+    "binaryHash": "94 01 1e 0a",
+    "type": 20,
+    "subType": 6,
+    "level": 0,
+    "toTopLevel": "94 f1 1e 0a",
+    "typeName": "TRACKER_MISSILE"
+  },
+  {
+    "hash": 192806998,
+    "binaryHash": "56 00 7e 0b",
+    "type": 22,
+    "subType": 1,
+    "level": 0,
+    "toTopLevel": "56 f0 7e 0b",
+    "typeName": "DISTRESS_SIGNAL"
+  },
+  {
+    "hash": 192807062,
+    "binaryHash": "96 00 7e 0b",
+    "type": 22,
+    "subType": 2,
+    "level": 0,
+    "toTopLevel": "96 f0 7e 0b",
+    "typeName": "DISTRESS_SIGNAL"
+  },
+  {
+    "hash": 218009625,
+    "binaryHash": "19 90 fe 0c",
+    "type": 25,
+    "subType": 0,
+    "level": 9,
+    "toTopLevel": "19 f0 fe 0c",
+    "typeName": "INERTIA_THRUSTER"
+  },
+  {
+    "hash": 234881116,
+    "binaryHash": "5c 00 00 0e",
+    "type": 28,
+    "subType": 1,
+    "level": 0,
+    "toTopLevel": "5c f0 00 0e",
+    "typeName": "EXTRACTOR"
+  },
+  {
+    "hash": 100569163,
+    "binaryHash": "4b 90 fe 05",
+    "type": 11,
+    "subType": 1,
+    "level": 9,
+    "toTopLevel": "4b f0 fe 05",
+    "typeName": "MEGA_TURRET"
+  },
+  {
+    "hash": 142618769,
+    "binaryHash": "91 30 80 08",
+    "type": 17,
+    "subType": 2,
+    "level": 3,
+    "toTopLevel": "91 f0 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 150872337,
+    "binaryHash": "11 21 fe 08",
+    "type": 17,
+    "subType": 4,
+    "level": 2,
+    "toTopLevel": "11 f1 fe 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142619089,
+    "binaryHash": "d1 31 80 08",
+    "type": 17,
+    "subType": 7,
+    "level": 3,
+    "toTopLevel": "d1 f1 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142624977,
+    "binaryHash": "d1 48 80 08",
+    "type": 17,
+    "subType": 35,
+    "level": 4,
+    "toTopLevel": "d1 f8 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142618833,
+    "binaryHash": "d1 30 80 08",
+    "type": 17,
+    "subType": 3,
+    "level": 3,
+    "toTopLevel": "d1 f0 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 150876369,
+    "binaryHash": "d1 30 fe 08",
+    "type": 17,
+    "subType": 3,
+    "level": 3,
+    "toTopLevel": "d1 f0 fe 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142618641,
+    "binaryHash": "11 30 80 08",
+    "type": 17,
+    "subType": 0,
+    "level": 3,
+    "toTopLevel": "11 f0 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 142627153,
+    "binaryHash": "51 51 80 08",
+    "type": 17,
+    "subType": 5,
+    "level": 5,
+    "toTopLevel": "51 f1 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 83792073,
+    "binaryHash": "c9 90 fe 04",
+    "type": 9,
+    "subType": 3,
+    "level": 9,
+    "toTopLevel": "c9 f0 fe 04",
+    "typeName": "THRUSTER"
+  },
+  {
+    "hash": 83792073,
+    "binaryHash": "c9 90 fe 04",
+    "type": 9,
+    "subType": 3,
+    "level": 9,
+    "toTopLevel": "c9 f0 fe 04",
+    "typeName": "THRUSTER"
+  },
+  {
+    "hash": 142624977,
+    "binaryHash": "d1 48 80 08",
+    "type": 17,
+    "subType": 35,
+    "level": 4,
+    "toTopLevel": "d1 f8 80 08",
+    "typeName": "WARP_DRIVE_PROGRAMM"
+  },
+  {
+    "hash": 226398362,
+    "binaryHash": "9a 90 7e 0d",
+    "type": 26,
+    "subType": 2,
+    "level": 9,
+    "toTopLevel": "9a f0 7e 0d",
+    "typeName": "MANEUVER_THRUSTER"
+  },
+  {
+    "hash": 58758215,
+    "binaryHash": "47 94 80 03",
+    "type": 7,
+    "subType": 17,
+    "level": 9,
+    "toTopLevel": "47 f4 80 03",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 58761287,
+    "binaryHash": "47 a0 80 03",
+    "type": 7,
+    "subType": 1,
+    "level": 10,
+    "toTopLevel": "47 f0 80 03",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 170397780,
+    "binaryHash": "54 10 28 0a",
+    "type": 20,
+    "subType": 1,
+    "level": 1,
+    "toTopLevel": "54 f0 28 0a",
+    "typeName": "TRACKER_MISSILE"
+  },
+  {
+    "hash": 173019156,
+    "binaryHash": "14 10 50 0a",
+    "type": 20,
+    "subType": 0,
+    "level": 1,
+    "toTopLevel": "14 f0 50 0a",
+    "typeName": "TRACKER_MISSILE"
+  },
+  {
+    "hash": 58626630,
+    "binaryHash": "46 92 7e 03",
+    "type": 6,
+    "subType": 9,
+    "level": 9,
+    "toTopLevel": "46 f2 7e 03",
+    "typeName": "HULL"
+  },
+  {
+    "hash": 16683841,
+    "binaryHash": "41 93 fe 00",
+    "type": 1,
+    "subType": 13,
+    "level": 9,
+    "toTopLevel": "41 f3 fe 00",
+    "typeName": "SHIELD_GENERATOR"
+  },
+  {
+    "hash": 108958403,
+    "binaryHash": "c3 92 7e 06",
+    "type": 3,
+    "subType": 11,
+    "level": 9,
+    "toTopLevel": "c3 f2 7e 06",
+    "typeName": "REACTOR"
+  },
+  {
+    "hash": 100663495,
+    "binaryHash": "c7 00 00 06",
+    "type": 7,
+    "subType": 3,
+    "level": 0,
+    "toTopLevel": "c7 f0 00 06",
+    "typeName": "CPU"
+  },
+  {
+    "hash": 67014727,
+    "binaryHash": "47 90 fe 03",
+    "type": 7,
+    "subType": 1,
+    "level": 9,
+    "toTopLevel": "47 f0 fe 03",
+    "typeName": "CPU"
+  }
+]

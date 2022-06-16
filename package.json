@@ -1,0 +1,14 @@
+{
+  "name": "save-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.41",
+    "binutils": "^0.1.0",
+    "csbinary": "^2.1.4"
+  }
+}
